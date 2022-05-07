@@ -2,7 +2,7 @@
     padding: 10%;
     width: 80%;
     margin: auto;
-    height: auto;
+    
 }
 
 p {
@@ -13,6 +13,7 @@ p {
 .grey-section {
     background-color: grey;
     padding: 10%;
+    border-top: solid rgb(77, 76, 76) 5px;
 }
 
 
